@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progIII24_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula01/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula01/Exemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula01/Exemplo3.java" afterDir="false" />
+    <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="Criação do projeto e exemplos da aula 1">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rodrigoh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rodrigoh/progIII24_2.git&quot;,
+    &quot;accountId&quot;: &quot;0e9bb241-325d-4aca-a92d-470fbc9935f4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kOlb7xZ0zTIURHZ2Dj3MbjcwXK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,7 +59,14 @@
     "Application.Exemplo1.executor": "Run",
     "Application.Exemplo2.executor": "Run",
     "Application.Exemplo3.executor": "Run",
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio2.executor": "Run",
+    "Application.Exercicio3.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
+    "Application.Exercicio5.executor": "Run",
+    "Application.aula02.Exemplo1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -58,13 +77,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exemplo3">
-    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula01.Exemplo1" />
+  <component name="RunManager" selected="Application.Exercicio5">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio1" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula01.*" />
+          <option name="PATTERN" value="aula02.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula01.Exemplo2" />
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio2" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula01.*" />
+          <option name="PATTERN" value="aula02.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +104,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula01.Exemplo3" />
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio3" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula01.*" />
+          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio4" />
+      <module name="progIII24_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio5" />
+      <module name="progIII24_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula02.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,9 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exemplo3" />
-        <item itemvalue="Application.Exemplo2" />
-        <item itemvalue="Application.Exemplo1" />
+        <item itemvalue="Application.Exercicio5" />
+        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -122,11 +169,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723162594681</updated>
-      <workItem from="1723162595878" duration="3313000" />
+      <workItem from="1723162595878" duration="3989000" />
+      <workItem from="1723203054928" duration="91000" />
+      <workItem from="1723762096862" duration="5150000" />
     </task>
+    <task id="LOCAL-00001" summary="Criação do projeto e exemplos da aula 1">
+      <option name="closed" value="true" />
+      <created>1723166716136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723166716136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação do projeto e exemplos da aula 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do projeto e exemplos da aula 1" />
   </component>
 </project>
