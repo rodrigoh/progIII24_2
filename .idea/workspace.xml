@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="Criação do projeto e exemplos da aula 1">
-      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/exercicios/Exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio14Op2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/numerosAleatorios/Exemplo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,37 +64,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Exemplo1.executor": "Run",
-    "Application.Exemplo2.executor": "Run",
-    "Application.Exemplo3.executor": "Run",
-    "Application.Exercicio1.executor": "Run",
-    "Application.Exercicio12.executor": "Run",
-    "Application.Exercicio13.executor": "Run",
-    "Application.Exercicio2.executor": "Run",
-    "Application.Exercicio3.executor": "Run",
-    "Application.Exercicio4.executor": "Run",
-    "Application.Exercicio5.executor": "Run",
-    "Application.Exercicio6.executor": "Run",
-    "Application.Exercicio7.executor": "Run",
-    "Application.Exercicio8.executor": "Run",
-    "Application.aula02.Exemplo1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rodri/IdeaProjects/progIII24_2/progIII24_2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula02.Exemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rodri/IdeaProjects/progIII24_2/progIII24_2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exercicio14">
+}</component>
+  <component name="RunManager" selected="Application.Exercicio15">
     <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio12" />
       <module name="progIII24_2" />
@@ -121,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio7" />
+    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.exercicios.Exercicio15" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="PATTERN" value="aula04.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio15" />
         <item itemvalue="Application.Exercicio14" />
         <item itemvalue="Application.Exercicio13" />
         <item itemvalue="Application.Exercicio12" />
         <item itemvalue="Application.Exercicio8" />
-        <item itemvalue="Application.Exercicio7" />
       </list>
     </recent_temporary>
   </component>
