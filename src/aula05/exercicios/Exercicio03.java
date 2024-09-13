@@ -16,7 +16,7 @@ public class Exercicio03 {
     int ci = 0;
     System.out.println("Dados no vetor: ");
     for(int i=0;i<vetor.length;i++){
-      vetor[i] = aleatorio.nextInt(200);
+      vetor[i] = aleatorio.nextInt(1,200);
       if(vetor[i]%2==0)
         par[cp++] = vetor[i];
       else
