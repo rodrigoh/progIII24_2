@@ -10,7 +10,7 @@ public class Conta {
   private float saldo;
 
 
-  public Conta(String titular, float deposito){
+  Conta(String titular, float deposito){
     this.titular = titular;
     saldo = deposito;
     geraIdentificador();
