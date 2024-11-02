@@ -4,28 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="Exemplos POO">
+    <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="Exemplos Herança, static, final">
       <change afterPath="$PROJECT_DIR$/src/aula08/PosicaoMapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula08/Questao10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula08/Questao9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/ExemploAtributo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Colaborador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Engenheiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverload/Operacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverload/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Colaborador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Engenheiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula11/revisao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula12/exemploExcecoes/ExemploUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploAbstrato/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploAbstrato/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploAbstrato/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploAbstrato/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploAbstrato/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploAbstrato/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploHerancaMultipla/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploHerancaMultipla/VeiculoCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploHerancaMultipla/VeiculoPasseio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploHerancaMultipla/VeiculoUtilitario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploInterface/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploInterface/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13/exemploInterface/Vetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,6 +67,7 @@
     "Application.Exemplo1.executor": "Run",
     "Application.Exemplo2.executor": "Run",
     "Application.Exemplo3.executor": "Run",
+    "Application.ExemploUm.executor": "Run",
     "Application.Exercicio03.executor": "Run",
     "Application.Exercicio05.executor": "Run",
     "Application.Exercicio06.executor": "Run",
@@ -97,11 +94,13 @@
     "Application.aula02.Exemplo1.executor": "Run",
     "Application.aula05.exemploOO.aluno.Principal.executor": "Run",
     "Application.aula11.exemploOverride.Teste.executor": "Run",
+    "Application.aula13.exemploAbstrato.Teste.executor": "Run",
+    "Application.aula13.exemploInterface.Teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rodri/IdeaProjects/progII63_2_bd",
+    "last_opened_file_path": "C:/Users/rodri/IdeaProjects/progIII24_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,26 +115,13 @@
       <recent name="C:\Users\rodri\IdeaProjects\progIII24_2\src\aula11\exemploOverride" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aula11.exemploOverride.Teste">
-    <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.exemploEncapsulamento.Banco" />
+  <component name="RunManager" selected="Application.aula13.exemploInterface.Teste">
+    <configuration name="ExemploUm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula12.exemploExcecoes.ExemploUm" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula10.exemploEncapsulamento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Questao9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula08.Questao9" />
-      <module name="progIII24_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula08.*" />
+          <option name="PATTERN" value="aula12.exemploExcecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +142,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula05.exemploOO.aluno.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula05.exemploOO.aluno.Principal" />
-      <module name="progIII24_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula05.exemploOO.aluno.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="aula11.exemploOverride.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula11.exemploOverride.Teste" />
       <module name="progIII24_2" />
@@ -182,13 +155,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aula13.exemploAbstrato.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula13.exemploAbstrato.Teste" />
+      <module name="progIII24_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula13.exemploAbstrato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula13.exemploInterface.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula13.exemploInterface.Teste" />
+      <module name="progIII24_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula13.exemploInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aula13.exemploInterface.Teste" />
+        <item itemvalue="Application.aula13.exemploAbstrato.Teste" />
+        <item itemvalue="Application.ExemploUm" />
         <item itemvalue="Application.aula11.exemploOverride.Teste" />
         <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.Banco" />
-        <item itemvalue="Application.aula05.exemploOO.aluno.Principal" />
-        <item itemvalue="Application.Questao9" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +228,8 @@
       <workItem from="1729075789014" duration="58000" />
       <workItem from="1729205408911" duration="5739000" />
       <workItem from="1729251166068" duration="753000" />
+      <workItem from="1729802213161" duration="311000" />
+      <workItem from="1730414210386" duration="6588000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto e exemplos da aula 1">
       <option name="closed" value="true" />
@@ -278,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726190433738</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exemplos Herança, static, final">
+      <option name="closed" value="true" />
+      <created>1729802498072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729802498072</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +300,8 @@
     <MESSAGE value="Exemplos matrizes" />
     <MESSAGE value="Atualização do exercício 3" />
     <MESSAGE value="Exemplos POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplos POO" />
+    <MESSAGE value="Exemplos Herança, static, final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplos Herança, static, final" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
